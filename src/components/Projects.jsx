@@ -64,13 +64,13 @@ export default function Projects() {
 
             {/* BUTTON */}
             <a
-              href="https://your-website-link.com"
+              href="https://github.com/Ananth-S26/govServicesPortal.git"
               target="_blank"
               rel="noopener noreferrer"
               className="w-full mt-auto"
             >
               <button className="w-full py-3 border border-primary/30 text-primary font-label-caps text-xs hover:bg-primary hover:text-white transition-all duration-300">
-                OPEN_SERVICE_PORTAL
+                OPEN_GITHUB_REPO
               </button>
             </a>
           </div>
